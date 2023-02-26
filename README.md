@@ -2,8 +2,6 @@
 
 <h3 align="center">Passionate about Technology || Web developer || Software Engineer </h3>
 
-<a href="https://www.buymeacoffee.com/khrworks"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=khrworks&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemanthraju&label=Profile%20views&color=0e75b6&style=flat" alt="khemanthraju" /> </p>
 
 - 🌱 **Learning :** Full-Stack Development:zap:, Open-Source:fire: , ReactJs
@@ -51,4 +49,11 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=KHemanthRaju&theme=github-compact" alt="Hemanth Raju's Graph"/></p>
 
+[website]: https://khr-portfolio.netlify.app/
+[linkedin]:https://www.linkedin.com/in/hemanth-raju-koneti/
+[twitter]: https://twitter.com/khraju123
+[medium]: https://medium.com/@rajuhemanth456
+[gmail]: rajuhemanth456@gmail.com
+
+<!--<a href="https://www.buymeacoffee.com/khrworks"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=khrworks&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>-->
 
