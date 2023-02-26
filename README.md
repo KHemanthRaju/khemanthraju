@@ -6,11 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemanthraju&label=Profile%20views&color=0e75b6&style=flat" alt="khemanthraju" /> </p>
 
+- 🌱 **Learning :** Full-Stack Development:zap:, Open-Source:fire: , ReactJs
 - 📝 I regularly write articles on [https://rajuhemanth456.medium.com/](https://rajuhemanth456.medium.com/)
-
 - 📫 How to reach me **rajuhemanth456@gmail.com**
+- **Hobbies :** Articles, Books📕, Novels & Music :headphones:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khemanthraju" alt="khemanthraju" /></a> </p>
+ [![Medium Badge](https://img.shields.io/badge/-khraju-03a9f4?style=flat-square&logo=Hashnode&logoColor=white&link=https://medium.com/@rajuhemanth456)](https://medium.com/@rajuhemanth456) [![Linkedin Badge](https://img.shields.io/badge/-hemanth-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanth-raju-koneti//)](https://www.linkedin.com/in/hemanth-raju-koneti/) [![Twitter Badge](https://img.shields.io/badge/-khr_003-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/khraju123)](https://twitter.com/khraju123)   [![Linktree Badge](https://img.shields.io/badge/-khr-pink?style=flat-square&logo=Linktree&logoColor=black&link=https://khr_tech.bio.link)](https://linktr.ee/khr_tech) 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,12 +38,17 @@
 <!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khrworks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khrworks" /></a></p><br><br>
 <hr> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khemanthraju&show_icons=true&locale=en&layout=compact" alt="khemanthraju" /></p>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khemanthraju&show_icons=true&locale=en" alt="khemanthraju" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khemanthraju&show_icons=true&locale=en&layout=compact" alt="khemanthraju" /></p>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=KHemanthRaju&&row=2&column=4&theme=juicyfresh" />
+</p>
+<p align="center">
+  <img alt="Koneti Hemanth Raju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KHemanthRaju&show_icons=true&theme=gotham">
+</p>
+<!--<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHemanthRaju&show_icons=true&theme=gotham">
+</p>-->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=KHemanthRaju&theme=github-compact" alt="Hemanth Raju's Graph"/></p>
 
 
