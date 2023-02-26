@@ -13,6 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Trending Technologies in 2023](https://rajuhemanth456.medium.com/trending-technologies-in-2023-7c2528ccf6ea?source=rss-e581dd6999ee------2)
+- [The Basics of JavaScript](https://rajuhemanth456.medium.com/the-basics-of-javascript-29c844b71323?source=rss-e581dd6999ee------2)
+- [Synchronous vs Asynchronous](https://medium.com/theleanprogrammer/synchronous-vs-asynchronous-600240a4e740?source=rss-e581dd6999ee------2)
+- [Access Modifiers in Java](https://medium.com/javarevisited/access-modifiers-in-java-a07ca3493500?source=rss-e581dd6999ee------2)
+- [CSS Box Model](https://bootcamp.uxdesign.cc/css-box-model-5a397de31ae9?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
