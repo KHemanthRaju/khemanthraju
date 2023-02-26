@@ -40,10 +40,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khemanthraju&show_icons=true&locale=en&layout=compact" alt="khemanthraju" /></p>
 <br>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khemanthraju&show_icons=true&locale=en" alt="khemanthraju" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
-[![KHemanthRaju's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KHemanthRaju&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=KHemanthRaju&theme=github-compact" alt="Hemanth Raju's Graph"/></p>
 
 
