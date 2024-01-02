@@ -55,6 +55,10 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=KHemanthRaju&theme=github-compact" alt="Hemanth Raju's Graph"/></p>
 
+<h3>Hacktoberfest2023 Holopin badges :<h3>
+  
+[![@rphi's Holopin board](https://holopin.me/khemanthraju)](https://holopin.io/@khemanthraju)
+
 [website]: https://khr-portfolio.netlify.app/
 [linkedin]:https://www.linkedin.com/in/hemanth-raju-koneti/
 [twitter]: https://twitter.com/khraju123
