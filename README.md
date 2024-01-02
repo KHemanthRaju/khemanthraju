@@ -57,7 +57,7 @@
 
 <h3>Hacktoberfest2023 Holopin badges :<h3>
   
-[![@rphi's Holopin board](https://holopin.me/khemanthraju)](https://holopin.io/@khemanthraju)
+[![Holopin](https://holopin.me/khemanthraju)](https://holopin.io/@khemanthraju)
 
 [website]: https://khr-portfolio.netlify.app/
 [linkedin]:https://www.linkedin.com/in/hemanth-raju-koneti/
