@@ -55,7 +55,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=KHemanthRaju&theme=github-compact" alt="Hemanth Raju's Graph"/></p>
 
-[![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KHemanthRaju)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3>Hacktoberfest2023 Holopin badges :<h3>
   
