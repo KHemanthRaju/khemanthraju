@@ -53,7 +53,6 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHemanthRaju&show_icons=true&theme=gotham">
 </p>-->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=KHemanthRaju&theme=github-compact" alt="Hemanth Raju's Graph"/></p>
 
 [![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KHemanthRaju)](https://github.com/khemanthraju/github-readme-activity-graph)
 
