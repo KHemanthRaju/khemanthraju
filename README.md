@@ -21,6 +21,9 @@
 - [Trending Technologies in 2023](https://rajuhemanth456.medium.com/trending-technologies-in-2023-7c2528ccf6ea?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 
+### ✍️Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/khemanthraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="khemanthraju" height="30" width="40" /></a>
