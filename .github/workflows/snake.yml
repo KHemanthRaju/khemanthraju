@@ -41,7 +41,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: KHemanthRaju
+          github_token: khemanthraju
           branch: main
           force: true
 
