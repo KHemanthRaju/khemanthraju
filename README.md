@@ -58,7 +58,7 @@
 </p>-->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
 
-![snake gif](https://github.com/KHemanthRaju/KHemanthRaju/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/KHemanthRaju/KHemanthRaju/blob/output/github-contribution-grid-snake.gif)-->
 
 [![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KHemanthRaju)](https://github.com/khemanthraju/github-readme-activity-graph)
 
