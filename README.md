@@ -20,6 +20,7 @@
 - [Understanding Asynchronous Javascript and EventLoop](https://javascript.plainenglish.io/asynchronous-javascript-event-loop-a06de2098166?source=rss-e581dd6999ee------2)
 - [A Detailed Look at Promises in JavaScript](https://javascript.plainenglish.io/promises-in-javascript-4ee99d5a42e5?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
+🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
