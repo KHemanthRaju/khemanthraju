@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Expand from Center Algorithm — DP Pattern — Palindrome](https://rajuhemanth456.medium.com/expand-from-center-algorithm-dp-pattern-palindrome-306b542ae916?source=rss-e581dd6999ee------2)
+- [Emerging Trends in the Software Industry: A Look into 2024](https://blog.stackademic.com/emerging-trends-in-software-industry-a-look-into-2024-7b2f922de895?source=rss-e581dd6999ee------2)
+- [Expand from Center Algorithm — DP Pattern — Palindrome](https://medium.com/javarevisited/expand-from-center-algorithm-dp-pattern-palindrome-306b542ae916?source=rss-e581dd6999ee------2)
 - [Closures in Javascript](https://rajuhemanth456.medium.com/closures-in-javascript-3e382a66e0a8?source=rss-e581dd6999ee------2)
 - [String Manipulation Techniques in Javascript](https://javascript.plainenglish.io/string-manipulation-techniques-in-javascript-4335c0429727?source=rss-e581dd6999ee------2)
 - [Understanding Asynchronous Javascript and EventLoop](https://javascript.plainenglish.io/asynchronous-javascript-event-loop-a06de2098166?source=rss-e581dd6999ee------2)
-- [A Detailed Look at Promises in JavaScript](https://javascript.plainenglish.io/promises-in-javascript-4ee99d5a42e5?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
