@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemanthraju&label=Profile%20views&color=0e75b6&style=flat" alt="khemanthraju" /> </p>
 
-- 🌱 **Learning :** Full-Stack Development:⚡, Open-Source:🔥, ReactJs, MERN Stack
+- 🌱 **Learning :** Full-Stack Development:⚡, Open-Source:🔥, ReactJs, MERN Stack, D3
 - 📝 I regularly write articles on [https://rajuhemanth456.medium.com/](https://rajuhemanth456.medium.com/)
 - 📫 How to reach me **rajuhemanth456@gmail.com**
 - **Hobbies :** Articles, Books📕, Novels & Music :headphones:
