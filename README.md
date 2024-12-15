@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Clingo: A Comprehensive Guide](https://rajuhemanth456.medium.com/exploring-clingo-a-comprehensive-guide-5e577f163036?source=rss-e581dd6999ee------2)
-- [DP Problems — Blind 75](https://medium.com/javarevisited/dp-problems-blind-75-b57f7bfb92ab?source=rss-e581dd6999ee------2)
-- [Visualizing Iris Dataset with D3.js: A Step-by-Step Guide](https://javascript.plainenglish.io/visualizing-iris-dataset-with-d3-js-a-step-by-step-guide-76de031a4106?source=rss-e581dd6999ee------2)
-- [Decoding Large Language Models: Their Roles, Costs, and Real-World Impact](https://ai.plainenglish.io/decoding-large-language-models-their-roles-costs-and-real-world-impact-ac07e5eeac18?source=rss-e581dd6999ee------2)
-- [The Evolution of ChatGPT in the Software Industry and Its Real-World Applications](https://ai.plainenglish.io/the-evolution-of-chatgpt-in-the-software-industry-and-its-real-world-applications-ceb0ada9b00c?source=rss-e581dd6999ee------2)
+- [Unlocking Potential with a Growth Mindset: Embrace Challenges and Thrive](https://rajuhemanth456.medium.com/unlocking-potential-with-a-growth-mindset-embrace-challenges-and-thrive-5313f32db564?source=rss-e581dd6999ee------2)
+- [Top 15 Best SEO Tools: Boost Your Website’s Ranking and Supercharge Your SEO Strategy](https://rajuhemanth456.medium.com/top-15-best-seo-tools-boost-your-websites-ranking-and-supercharge-your-seo-strategy-ef15189c27ca?source=rss-e581dd6999ee------2)
+- [From ReactJS to NextJS: Unlocking the Future of Web Development](https://rajuhemanth456.medium.com/from-reactjs-to-nextjs-unlocking-the-future-of-web-development-1ffd81db8efd?source=rss-e581dd6999ee------2)
+- [Email Templates using React Email and Resend in Next.js: A Modern Approach ✉️](https://rajuhemanth456.medium.com/email-templates-using-react-email-and-resend-in-next-js-a-modern-approach-%EF%B8%8F-d5931962001e?source=rss-e581dd6999ee------2)
+- [DevOps Engineer vs Site Reliability Engineer &lpar;SRE&rpar;: What’s the Difference?](https://rajuhemanth456.medium.com/devops-engineer-vs-site-reliability-engineer-sre-whats-the-difference-bd4225924582?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
