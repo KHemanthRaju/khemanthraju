@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ LLMOps Demystified: Turning Language Models into Real-World Products](https://blog.venturemagazine.net/%EF%B8%8F-llmops-demystified-turning-language-models-into-real-world-products-5d7412dbc7b4?source=rss-e581dd6999ee------2)
-- [The Hidden Skill of Great Engineers](https://ai.plainenglish.io/the-hidden-skill-of-great-engineers-3a2f232f156b?source=rss-e581dd6999ee------2)
-- [Battle-tested tools and frameworks to help you build, deploy, and scale intelligent agents —…](https://ai.plainenglish.io/battle-tested-tools-and-frameworks-to-help-you-build-deploy-and-scale-intelligent-agents-06d16f829a84?source=rss-e581dd6999ee------2)
-- [5 Cutting-Edge Techniques to Fine-Tune LLMs: Boost Your AI’s Performance!](https://ai.plainenglish.io/5-cutting-edge-techniques-to-fine-tune-llms-boost-your-ais-performance-47173389f4e9?source=rss-e581dd6999ee------2)
-- [Transformers vs Mixture of Experts: The Showdown of AI Architectures ⚔️](https://ai.plainenglish.io/transformers-vs-mixture-of-experts-the-showdown-of-ai-architectures-%EF%B8%8F-ab5917bcb686?source=rss-e581dd6999ee------2)
+- [China’s AI “Agent Hospital”: 42 Robo‑Docs and 4 AI Nurses](https://ai.plainenglish.io/chinas-ai-agent-hospital-42-robo-docs-and-4-ai-nurses-d926ff0ca815?source=rss-e581dd6999ee------2)
+- [Amazon Kendra: The AI-Powered Search Genie for Your Enterprise ‍♂️](https://ai.plainenglish.io/amazon-kendra-the-ai-powered-search-genie-for-your-enterprise-%EF%B8%8F-77dd53d716a4?source=rss-e581dd6999ee------2)
+- [Amazon Chime: Your All‑in‑One Communication Hub](https://ai.plainenglish.io/amazon-chime-your-all-in-one-communication-hub-eecd5eca003e?source=rss-e581dd6999ee------2)
+- [Google DeepMind: Pioneering the Frontiers of Artificial Intelligence](https://ai.plainenglish.io/google-deepmind-pioneering-the-frontiers-of-artificial-intelligence-48c5fa12af55?source=rss-e581dd6999ee------2)
+- [Amazon Lex Chatbot vs. AWS Bedrock: Choosing Your AI Conversational Companion](https://ai.plainenglish.io/amazon-lex-chatbot-vs-aws-bedrock-choosing-your-ai-conversational-companion-f7a475800e30?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
