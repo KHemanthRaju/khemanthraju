@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [China’s AI “Agent Hospital”: 42 Robo‑Docs and 4 AI Nurses](https://ai.plainenglish.io/chinas-ai-agent-hospital-42-robo-docs-and-4-ai-nurses-d926ff0ca815?source=rss-e581dd6999ee------2)
-- [Amazon Kendra: The AI-Powered Search Genie for Your Enterprise ‍♂️](https://ai.plainenglish.io/amazon-kendra-the-ai-powered-search-genie-for-your-enterprise-%EF%B8%8F-77dd53d716a4?source=rss-e581dd6999ee------2)
-- [Amazon Chime: Your All‑in‑One Communication Hub](https://ai.plainenglish.io/amazon-chime-your-all-in-one-communication-hub-eecd5eca003e?source=rss-e581dd6999ee------2)
-- [Google DeepMind: Pioneering the Frontiers of Artificial Intelligence](https://ai.plainenglish.io/google-deepmind-pioneering-the-frontiers-of-artificial-intelligence-48c5fa12af55?source=rss-e581dd6999ee------2)
-- [Amazon Lex Chatbot vs. AWS Bedrock: Choosing Your AI Conversational Companion](https://ai.plainenglish.io/amazon-lex-chatbot-vs-aws-bedrock-choosing-your-ai-conversational-companion-f7a475800e30?source=rss-e581dd6999ee------2)
+- [AI All-Stars: Build Anything, Anytime](https://ai.plainenglish.io/ai-all-stars-build-anything-anytime-4a57086eb1c7?source=rss-e581dd6999ee------2)
+- [How to Use GitHub Like a Pro Job Seeker](https://ai.plainenglish.io/how-to-use-github-like-a-pro-job-seeker-e51ff5f538ce?source=rss-e581dd6999ee------2)
+- [Storing Docker Images on AWS ECR: A Fun and Simple Guide](https://ai.plainenglish.io/storing-docker-images-on-aws-ecr-a-fun-and-simple-guide-a77258c6b758?source=rss-e581dd6999ee------2)
+- [Create an EC2 Instance with Terraform: A Fun and Simple Guide](https://ai.plainenglish.io/create-an-ec2-instance-with-terraform-a-fun-and-simple-guide-4806949db850?source=rss-e581dd6999ee------2)
+- [Bedrock Brilliance: Powering Next‑Gen AI](https://ai.plainenglish.io/bedrock-brilliance-powering-next-gen-ai-9d8837929f56?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
