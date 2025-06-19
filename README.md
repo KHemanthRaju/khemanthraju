@@ -57,7 +57,7 @@
 <!--<p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHemanthRaju&show_icons=true&theme=gotham">
 </p>-->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju&" alt="khemanthraju" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khemanthraju" alt="khemanthraju" /></p>
 
 <!--![snake gif](https://github.com/KHemanthRaju/KHemanthRaju/blob/output/github-contribution-grid-snake.gif)-->
 
