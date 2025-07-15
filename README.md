@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [AI All-Stars: Build Anything, Anytime](https://ai.plainenglish.io/ai-all-stars-build-anything-anytime-4a57086eb1c7?source=rss-e581dd6999ee------2)
-- [How to Use GitHub Like a Pro Job Seeker](https://ai.plainenglish.io/how-to-use-github-like-a-pro-job-seeker-e51ff5f538ce?source=rss-e581dd6999ee------2)
-- [Storing Docker Images on AWS ECR: A Fun and Simple Guide](https://ai.plainenglish.io/storing-docker-images-on-aws-ecr-a-fun-and-simple-guide-a77258c6b758?source=rss-e581dd6999ee------2)
-- [Create an EC2 Instance with Terraform: A Fun and Simple Guide](https://ai.plainenglish.io/create-an-ec2-instance-with-terraform-a-fun-and-simple-guide-4806949db850?source=rss-e581dd6999ee------2)
-- [Bedrock Brilliance: Powering Next‑Gen AI](https://ai.plainenglish.io/bedrock-brilliance-powering-next-gen-ai-9d8837929f56?source=rss-e581dd6999ee------2)
+- [✨ Build Better, Faster, Smarter: Meet Kiro, the Next-Gen AI IDE](https://ai.plainenglish.io/build-better-faster-smarter-meet-kiro-the-next-gen-ai-ide-4dbd0486085d?source=rss-e581dd6999ee------2)
+- [AWS Q Developer Pro: The Ultimate AI Assistant for Cloud-Native Developers](https://ai.plainenglish.io/aws-q-developer-pro-the-ultimate-ai-assistant-for-cloud-native-developers-fef6276a64c6?source=rss-e581dd6999ee------2)
+- [☁️ AWS MCP Servers: Enabling Model-Aware Workflows in AI-Powered Applications](https://ai.plainenglish.io/%EF%B8%8F-aws-mcp-servers-enabling-model-aware-workflows-in-ai-powered-applications-a7d7ddc744cc?source=rss-e581dd6999ee------2)
+- [⚔️ Cursor AI vs Kiro: Comparing the Next Generation of AI IDEs](https://ai.plainenglish.io/%EF%B8%8F-cursor-ai-vs-kiro-comparing-the-next-generation-of-ai-ides-e0ae63523095?source=rss-e581dd6999ee------2)
+- [Introducing Kiro: An Agentic IDE for the Next Era of Software Development](https://ai.plainenglish.io/introducing-kiro-an-agentic-ide-for-the-next-era-of-software-development-e438ef713024?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
