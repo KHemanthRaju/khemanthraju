@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [✨ Build Better, Faster, Smarter: Meet Kiro, the Next-Gen AI IDE](https://ai.plainenglish.io/build-better-faster-smarter-meet-kiro-the-next-gen-ai-ide-4dbd0486085d?source=rss-e581dd6999ee------2)
-- [AWS Q Developer Pro: The Ultimate AI Assistant for Cloud-Native Developers](https://ai.plainenglish.io/aws-q-developer-pro-the-ultimate-ai-assistant-for-cloud-native-developers-fef6276a64c6?source=rss-e581dd6999ee------2)
-- [☁️ AWS MCP Servers: Enabling Model-Aware Workflows in AI-Powered Applications](https://ai.plainenglish.io/%EF%B8%8F-aws-mcp-servers-enabling-model-aware-workflows-in-ai-powered-applications-a7d7ddc744cc?source=rss-e581dd6999ee------2)
-- [⚔️ Cursor AI vs Kiro: Comparing the Next Generation of AI IDEs](https://ai.plainenglish.io/%EF%B8%8F-cursor-ai-vs-kiro-comparing-the-next-generation-of-ai-ides-e0ae63523095?source=rss-e581dd6999ee------2)
-- [Introducing Kiro: An Agentic IDE for the Next Era of Software Development](https://ai.plainenglish.io/introducing-kiro-an-agentic-ide-for-the-next-era-of-software-development-e438ef713024?source=rss-e581dd6999ee------2)
+- [Building Software That Lasts: 7 Core Principles for Effective Solution Architecture ️✨](https://rajuhemanth456.medium.com/building-software-that-lasts-7-core-principles-for-effective-solution-architecture-%EF%B8%8F-4a9222e52357?source=rss-e581dd6999ee------2)
+- [Building Future-Ready Software: The 7 Core Principles of Solution Architecture ️️](https://ai.plainenglish.io/building-future-ready-software-the-7-core-principles-of-solution-architecture-%EF%B8%8F-%EF%B8%8F-9f44282c9e79?source=rss-e581dd6999ee------2)
+- [The AI Coding Revolution: How Software Is Becoming Free and What Comes Next](https://ai.plainenglish.io/the-ai-coding-revolution-how-software-is-becoming-free-and-what-comes-next-bb4816297494?source=rss-e581dd6999ee------2)
+- [The Zero-Cost Software Revolution: Seven Business Models Poised to Win Big](https://ai.plainenglish.io/the-zero-cost-software-revolution-seven-business-models-poised-to-win-big-e06fc7396163?source=rss-e581dd6999ee------2)
+- [Waveyn — The Student Community That’s Making Waves ✨](https://ai.plainenglish.io/waveyn-the-student-community-thats-making-waves-7fcd74899730?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
