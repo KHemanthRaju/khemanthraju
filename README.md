@@ -47,6 +47,8 @@
 <!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khrworks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khrworks" /></a></p><br><br>
 <hr> -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/KHemanthRaju?theme=catppuccinMocha&font=Quicksand&ext=heatmap)
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khemanthraju&show_icons=true&locale=en&layout=compact" alt="khemanthraju" /></p>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=KHemanthRaju&&row=2&column=4&theme=juicyfresh" />
