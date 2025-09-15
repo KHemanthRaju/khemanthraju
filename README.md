@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Software That Lasts: 7 Core Principles for Effective Solution Architecture ️✨](https://rajuhemanth456.medium.com/building-software-that-lasts-7-core-principles-for-effective-solution-architecture-%EF%B8%8F-4a9222e52357?source=rss-e581dd6999ee------2)
-- [Building Future-Ready Software: The 7 Core Principles of Solution Architecture ️️](https://ai.plainenglish.io/building-future-ready-software-the-7-core-principles-of-solution-architecture-%EF%B8%8F-%EF%B8%8F-9f44282c9e79?source=rss-e581dd6999ee------2)
-- [The AI Coding Revolution: How Software Is Becoming Free and What Comes Next](https://ai.plainenglish.io/the-ai-coding-revolution-how-software-is-becoming-free-and-what-comes-next-bb4816297494?source=rss-e581dd6999ee------2)
-- [The Zero-Cost Software Revolution: Seven Business Models Poised to Win Big](https://ai.plainenglish.io/the-zero-cost-software-revolution-seven-business-models-poised-to-win-big-e06fc7396163?source=rss-e581dd6999ee------2)
-- [Waveyn — The Student Community That’s Making Waves ✨](https://ai.plainenglish.io/waveyn-the-student-community-thats-making-waves-7fcd74899730?source=rss-e581dd6999ee------2)
+- [Automating the Search for Optimal LangChain Agent Architectures with Quality-Diversity…](https://python.plainenglish.io/automating-the-search-for-optimal-langchain-agent-architectures-with-quality-diversity-996ed9668ee4?source=rss-e581dd6999ee------2)
+- [Distributed Data Systems: The Hidden Backbone of Our Digital World ⚡](https://python.plainenglish.io/distributed-data-systems-the-hidden-backbone-of-our-digital-world-0e87dbfa343c?source=rss-e581dd6999ee------2)
+- [Clarity Over Hype: Why Direction Outlasts Motivation](https://selfhelp.cvsingh.com/clarity-over-hype-why-direction-outlasts-motivation-2b93cbadcd07?source=rss-e581dd6999ee------2)
+- [Web Ranking &amp; Botnet Detection: When the Internet Plays Hide and Seek](https://rajuhemanth456.medium.com/web-ranking-botnet-detection-when-the-internet-plays-hide-and-seek-f706b510d59e?source=rss-e581dd6999ee------2)
+- [Information Extraction &lpar;IE&rpar; from Text: Teaching Machines to Read Between the Lines](https://python.plainenglish.io/information-extraction-ie-from-text-teaching-machines-to-read-between-the-lines-5c7c9061821d?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
