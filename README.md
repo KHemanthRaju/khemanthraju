@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm K Hemanth Raju</h1>
 
-<h3 align="center"> Full Stack Developer </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemanthraju&label=Profile%20views&color=0e75b6&style=flat" alt="khemanthraju" /> </p>
 
 - 🌱 **Learning :** Full-Stack Development:⚡, Open-Source:🔥, ReactJs
 - 📝 I regularly write articles on [https://rajuhemanth456.medium.com/](https://rajuhemanth456.medium.com/)
 - 📫 How to reach me **rajuhemanth456@gmail.com**
 - **Hobbies :** Articles, Books📕, Novels & Music :headphones:
+
+---
+
+## 🚀 What I’m Working On
+
+- 💼 **Walnutech** – Building backend with supabase, FastAPI for a start-up company.  
+- ⚙️ **LLMOps** – Serverless answering service on AWS with Langfuse observability & CI/CD auto-rollbacks.  
+- 🌐 Side Projects: Focusing on Data Engineering projects, Open for collaboration.  
+
+---
 
  [![Medium Badge](https://img.shields.io/badge/-khraju-03a9f4?style=flat-square&logo=Hashnode&logoColor=white&link=https://medium.com/@rajuhemanth456)](https://medium.com/@rajuhemanth456) [![Linkedin Badge](https://img.shields.io/badge/-hemanth-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanth-raju-koneti//)](https://www.linkedin.com/in/hemanth-raju-koneti/) [![Twitter Badge](https://img.shields.io/badge/-khr_003-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/khraju123)](https://twitter.com/khraju123)   [![Linktree Badge](https://img.shields.io/badge/-khr-pink?style=flat-square&logo=Linktree&logoColor=black&link=https://khr_tech.bio.link)](https://linktr.ee/khr_tech) 
  <!--<a href="https://www.buymeacoffee.com/khrworks"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=khrworks&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>-->
@@ -68,6 +76,8 @@
 <h3>Hacktoberfest2023 Holopin badges :<h3>
   
 [![Holopin](https://holopin.me/khemanthraju)](https://holopin.io/@khemanthraju)
+
+---
 
 [website]: https://khr-portfolio.netlify.app/
 [linkedin]:https://www.linkedin.com/in/hemanth-raju-koneti/
