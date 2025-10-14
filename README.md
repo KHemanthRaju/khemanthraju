@@ -83,6 +83,12 @@
 [medium]: https://medium.com/@rajuhemanth456
 [gmail]: rajuhemanth456@gmail.com
 
+* 🌐 [Portfolio](https://github.com/KHemanthRaju)
+* 💼 [LinkedIn](https://www.linkedin.com/in/hemanth-raju-koneti/)
+* 📫 [Email](mailto:rajuhemanth456@gmail.com)
+* 🐦 [Twitter / X](https://twitter.com/khraju123)
+* 📷 [Medium](https://medium.com/@rajuhemanth456)
+
 ---
 
 <h3>Hacktoberfest2023 Holopin badges :<h3>
