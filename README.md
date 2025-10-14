@@ -73,11 +73,9 @@
 
 [![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KHemanthRaju)](https://github.com/khemanthraju/github-readme-activity-graph)
 
-<h3>Hacktoberfest2023 Holopin badges :<h3>
-  
-[![Holopin](https://holopin.me/khemanthraju)](https://holopin.io/@khemanthraju)
-
 ---
+
+## 🔗 Let's Connect
 
 [website]: https://khr-portfolio.netlify.app/
 [linkedin]:https://www.linkedin.com/in/hemanth-raju-koneti/
@@ -85,5 +83,10 @@
 [medium]: https://medium.com/@rajuhemanth456
 [gmail]: rajuhemanth456@gmail.com
 
+---
+
+<h3>Hacktoberfest2023 Holopin badges :<h3>
+  
+[![Holopin](https://holopin.me/khemanthraju)](https://holopin.io/@khemanthraju)
 
 
