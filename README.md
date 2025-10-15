@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating the Search for Optimal LangChain Agent Architectures with Quality-Diversity…](https://python.plainenglish.io/automating-the-search-for-optimal-langchain-agent-architectures-with-quality-diversity-996ed9668ee4?source=rss-e581dd6999ee------2)
-- [Distributed Data Systems: The Hidden Backbone of Our Digital World ⚡](https://python.plainenglish.io/distributed-data-systems-the-hidden-backbone-of-our-digital-world-0e87dbfa343c?source=rss-e581dd6999ee------2)
-- [Clarity Over Hype: Why Direction Outlasts Motivation](https://selfhelp.cvsingh.com/clarity-over-hype-why-direction-outlasts-motivation-2b93cbadcd07?source=rss-e581dd6999ee------2)
-- [Web Ranking &amp; Botnet Detection: When the Internet Plays Hide and Seek](https://rajuhemanth456.medium.com/web-ranking-botnet-detection-when-the-internet-plays-hide-and-seek-f706b510d59e?source=rss-e581dd6999ee------2)
-- [Information Extraction &lpar;IE&rpar; from Text: Teaching Machines to Read Between the Lines](https://python.plainenglish.io/information-extraction-ie-from-text-teaching-machines-to-read-between-the-lines-5c7c9061821d?source=rss-e581dd6999ee------2)
+- [Perplexity Pro for Education: Study Smarter, Not Harder](https://python.plainenglish.io/perplexity-pro-for-education-study-smarter-not-harder-b0934b6a7125?source=rss-e581dd6999ee------2)
+- [Waveyn’s Global Reach: Connecting Minds Across Continents](https://rajuhemanth456.medium.com/waveyns-global-reach-connecting-minds-across-continents-192b248a0868?source=rss-e581dd6999ee------2)
+- [Building an AI-Powered PowerPoint Generator with Amazon Bedrock &lpar;Part 2&rpar;](https://python.plainenglish.io/building-an-ai-powered-powerpoint-generator-with-amazon-bedrock-part-2-49a98bba9a94?source=rss-e581dd6999ee------2)
+- [Automating Presentations with AI and Amazon Bedrock — Part-1](https://python.plainenglish.io/automating-presentations-with-ai-and-amazon-bedrock-part-1-2097bdd86828?source=rss-e581dd6999ee------2)
+- [Waveyn: Empowering Students Through Global Mentorship](https://blog.venturemagazine.net/waveyn-empowering-students-through-global-mentorship-6c84e905d601?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
