@@ -21,6 +21,37 @@
 
 ---
 
+## 🛠 Tech Stack
+
+### Programming languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+
+### Tools & Frameworks
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi&logoColor=009688)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=68A063)&nbsp;
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![React](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextjs&logoColor=61DAFB)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat)&nbsp;
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat)&nbsp;
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat)&nbsp;
+![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=0DB7ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)&nbsp;
+
+### AI/ML & Architecture
+- LLMs, Fine‑tuning, Prompt Engineering, RAG, Embeddings, Vector Search, Agentic Systems, LLMOps, MCP
+- REST APIs, GraphQL, Microservices, Distributed Systems, Event‑Driven (Kafka/RabbitMQ)
+
+---
+
  [![Medium Badge](https://img.shields.io/badge/-khraju-03a9f4?style=flat-square&logo=Hashnode&logoColor=white&link=https://medium.com/@rajuhemanth456)](https://medium.com/@rajuhemanth456) [![Linkedin Badge](https://img.shields.io/badge/-hemanth-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanth-raju-koneti//)](https://www.linkedin.com/in/hemanth-raju-koneti/) [![Twitter Badge](https://img.shields.io/badge/-khr_003-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/khraju123)](https://twitter.com/khraju123)   [![Linktree Badge](https://img.shields.io/badge/-khr-pink?style=flat-square&logo=Linktree&logoColor=black&link=https://khr_tech.bio.link)](https://linktr.ee/khr_tech) 
  <!--<a href="https://www.buymeacoffee.com/khrworks"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=khrworks&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>-->
 
@@ -52,9 +83,9 @@
 <a href="https://www.topcoder.com/members/hemanth_raju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="hemanth_raju" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-<hr>
+<hr> -->
 
 <!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khrworks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khrworks" /></a></p><br><br>
