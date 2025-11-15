@@ -9,7 +9,7 @@
 - 🎓 Pursuing M.S. in Computer Science, and Engineering at [Arizona State University](https://www.asu.edu)
 - 📝 I regularly write articles on [https://rajuhemanth456.medium.com/](https://rajuhemanth456.medium.com/)
 - 🌐 Passionate about Agentic AI, RAG, scalable backends, and cloud-native infra
-- 📍 Tempe, AZ • ✉️ rajuhemanth456@gmail.com • 📞 +1-480-971-6434
+- 📍 Tempe, AZ • ✉️ rajuhemanth456@gmail.com
 
 ---
 
@@ -53,8 +53,8 @@
 ---
 
 ## 🎓 Education
-- Arizona State University — M.S. Data Science, Analytics, and Engineering (GPA: 4.0/4.0) — Aug 2024 – May 2026
-- Visvesvaraya Technological University — B.E. Computer Science & Engineering (GPA: 3.5) — Aug 2014 – Jun 2018
+- Arizona State University — M.S. Computer Science, and Engineering (GPA: 4.0/4.0) — Aug 2024 – May 2026
+- Visvesvaraya Technological University — B.E. Computer Science & Engineering (GPA: 3.7) — Aug 2017 – Jun 2021
 
 ## 🏅 Certifications
 - AWS Cloud Practitioner Certification (CLF‑C02)
