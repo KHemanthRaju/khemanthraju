@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity Pro for Education: Study Smarter, Not Harder](https://python.plainenglish.io/perplexity-pro-for-education-study-smarter-not-harder-b0934b6a7125?source=rss-e581dd6999ee------2)
-- [Waveyn’s Global Reach: Connecting Minds Across Continents](https://rajuhemanth456.medium.com/waveyns-global-reach-connecting-minds-across-continents-192b248a0868?source=rss-e581dd6999ee------2)
-- [Building an AI-Powered PowerPoint Generator with Amazon Bedrock &lpar;Part 2&rpar;](https://python.plainenglish.io/building-an-ai-powered-powerpoint-generator-with-amazon-bedrock-part-2-49a98bba9a94?source=rss-e581dd6999ee------2)
-- [Automating Presentations with AI and Amazon Bedrock — Part-1](https://python.plainenglish.io/automating-presentations-with-ai-and-amazon-bedrock-part-1-2097bdd86828?source=rss-e581dd6999ee------2)
-- [Waveyn: Empowering Students Through Global Mentorship](https://blog.venturemagazine.net/waveyn-empowering-students-through-global-mentorship-6c84e905d601?source=rss-e581dd6999ee------2)
+- [Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](https://ai.plainenglish.io/verbalized-sampling-how-to-mitigate-mode-collapse-and-unlock-llm-diversity-f4e314e921fe?source=rss-e581dd6999ee------2)
+- [Top Publications for Tech Writers on Medium](https://python.plainenglish.io/top-publications-for-tech-writers-on-medium-7e4d51978bc2?source=rss-e581dd6999ee------2)
+- [Top Publications for Productivity &amp; Self-Improvement](https://medium.com/readers-club/top-publications-for-productivity-self-improvement-94ac5b1c5b96?source=rss-e581dd6999ee------2)
+- [AWS Fargate: The Serverless Engine Powering Your Containers](https://javascript.plainenglish.io/aws-fargate-the-serverless-engine-powering-your-containers-83954f6463db?source=rss-e581dd6999ee------2)
+- [Mastering Gremlin Queries in Amazon Neptune: Navigating the World of Graph Databases](https://javascript.plainenglish.io/mastering-gremlin-queries-in-amazon-neptune-navigating-the-world-of-graph-databases-5f3ffaf0a075?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
