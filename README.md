@@ -52,6 +52,17 @@
 
 ---
 
+## 🎓 Education
+- Arizona State University — M.S. Data Science, Analytics, and Engineering (GPA: 4.0/4.0) — Aug 2024 – May 2026
+- Visvesvaraya Technological University — B.E. Computer Science & Engineering (GPA: 3.5) — Aug 2014 – Jun 2018
+
+## 🏅 Certifications
+- AWS Cloud Practitioner Certification (CLF‑C02)
+- AWS AI Practitioner Certification (AIF-C01)
+- AWS Solution Architect Certification (SAA‑C03)
+
+---
+
  [![Medium Badge](https://img.shields.io/badge/-khraju-03a9f4?style=flat-square&logo=Hashnode&logoColor=white&link=https://medium.com/@rajuhemanth456)](https://medium.com/@rajuhemanth456) [![Linkedin Badge](https://img.shields.io/badge/-hemanth-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanth-raju-koneti//)](https://www.linkedin.com/in/hemanth-raju-koneti/) [![Twitter Badge](https://img.shields.io/badge/-khr_003-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/khraju123)](https://twitter.com/khraju123)   [![Linktree Badge](https://img.shields.io/badge/-khr-pink?style=flat-square&logo=Linktree&logoColor=black&link=https://khr_tech.bio.link)](https://linktr.ee/khr_tech) 
  <!--<a href="https://www.buymeacoffee.com/khrworks"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=khrworks&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>-->
 
