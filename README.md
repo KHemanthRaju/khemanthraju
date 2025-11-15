@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm K Hemanth Raju</h1>
 <h3 align="center">Software Engineer | MSCS @ ASU</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemanthraju&label=Profile%20views&color=0e75b6&style=flat" alt="khemanthraju" /> </p>
+<img align="right" src="https://github.com/kevinlee-2000/kevinlee-2000/blob/master/assets/coding.gif" width="360"/>
 
-- 🌱 **Learning :** Full-Stack Development:⚡, Open-Source:🔥, NextJS
+### About me
+
+- 👨‍💻 AI Software Engineer | Building production LLM & RAG systems
+- 🎓 Pursuing M.S. in Computer Science, and Engineering at [Arizona State University](https://www.asu.edu)
 - 📝 I regularly write articles on [https://rajuhemanth456.medium.com/](https://rajuhemanth456.medium.com/)
-- 📫 How to reach me **rajuhemanth456@gmail.com**
-- **Hobbies :** Articles, Books📕, Novels & Music :headphones:
+- 🌐 Passionate about Agentic AI, RAG, scalable backends, and cloud-native infra
+- 📍 Tempe, AZ • ✉️ rajuhemanth456@gmail.com • 📞 +1-480-971-6434
 
 ---
 
