@@ -68,11 +68,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](https://ai.plainenglish.io/verbalized-sampling-how-to-mitigate-mode-collapse-and-unlock-llm-diversity-f4e314e921fe?source=rss-e581dd6999ee------2)
-- [Top Publications for Tech Writers on Medium](https://python.plainenglish.io/top-publications-for-tech-writers-on-medium-7e4d51978bc2?source=rss-e581dd6999ee------2)
-- [Top Publications for Productivity &amp; Self-Improvement](https://medium.com/readers-club/top-publications-for-productivity-self-improvement-94ac5b1c5b96?source=rss-e581dd6999ee------2)
-- [AWS Fargate: The Serverless Engine Powering Your Containers](https://javascript.plainenglish.io/aws-fargate-the-serverless-engine-powering-your-containers-83954f6463db?source=rss-e581dd6999ee------2)
-- [Mastering Gremlin Queries in Amazon Neptune: Navigating the World of Graph Databases](https://javascript.plainenglish.io/mastering-gremlin-queries-in-amazon-neptune-navigating-the-world-of-graph-databases-5f3ffaf0a075?source=rss-e581dd6999ee------2)
+- [Unlock True Centralized Security: AWS Secrets Manager Now Manages External Secrets ✨](https://rajuhemanth456.medium.com/unlock-true-centralized-security-aws-secrets-manager-now-manages-external-secrets-a48e3cf11177?source=rss-e581dd6999ee------2)
+- [AWS DevOps Agent: The Autonomous Engineer Transforming Cloud Operations](https://python.plainenglish.io/aws-devops-agent-the-autonomous-engineer-transforming-cloud-operations-5dbd639a42ad?source=rss-e581dd6999ee------2)
+- [Amazon SageMaker Serverless MLflow: The Future of Simple, Scalable MLOps](https://python.plainenglish.io/amazon-sagemaker-serverless-mlflow-the-future-of-simple-scalable-mlops-262aaacddf4c?source=rss-e581dd6999ee------2)
+- [Be Optimistic: The Life Upgrade You Didn’t Know You Needed](https://python.plainenglish.io/be-optimistic-the-life-upgrade-you-didnt-know-you-needed-2121ad59c6e0?source=rss-e581dd6999ee------2)
+- [Agent Engineering: Building the Autonomous Teammates of the Future](https://rajuhemanth456.medium.com/agent-engineering-building-the-autonomous-teammates-of-the-future-cc1114c304e0?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
