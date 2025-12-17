@@ -5,8 +5,10 @@
 
 ### About me
 
-- 👨‍💻 AI Software Engineer | Building production LLM & RAG systems
-- 🎓 Pursuing M.S. in Computer Science, and Engineering at [Arizona State University](https://www.asu.edu)
+- 👨‍💻 Software Developer | Building production LLM & RAG systems
+- Pursuing Master’s in Computer Science at Arizona State University.
+- Associate Cloud Developer at AWS x ASU's AI and Cloud Innovation Center.
+- AWS Certified Cloud Practitioner & Solution Architect Associate.
 - 📝 I regularly write articles on [https://rajuhemanth456.medium.com/](https://rajuhemanth456.medium.com/)
 - 🌐 Passionate about Agentic AI, RAG, scalable backends, and cloud-native infra
 - 📍 Tempe, AZ • ✉️ rajuhemanth456@gmail.com
