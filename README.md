@@ -70,11 +70,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlock True Centralized Security: AWS Secrets Manager Now Manages External Secrets ✨](https://rajuhemanth456.medium.com/unlock-true-centralized-security-aws-secrets-manager-now-manages-external-secrets-a48e3cf11177?source=rss-e581dd6999ee------2)
-- [AWS DevOps Agent: The Autonomous Engineer Transforming Cloud Operations](https://python.plainenglish.io/aws-devops-agent-the-autonomous-engineer-transforming-cloud-operations-5dbd639a42ad?source=rss-e581dd6999ee------2)
-- [Amazon SageMaker Serverless MLflow: The Future of Simple, Scalable MLOps](https://python.plainenglish.io/amazon-sagemaker-serverless-mlflow-the-future-of-simple-scalable-mlops-262aaacddf4c?source=rss-e581dd6999ee------2)
-- [Be Optimistic: The Life Upgrade You Didn’t Know You Needed](https://python.plainenglish.io/be-optimistic-the-life-upgrade-you-didnt-know-you-needed-2121ad59c6e0?source=rss-e581dd6999ee------2)
-- [Agent Engineering: Building the Autonomous Teammates of the Future](https://rajuhemanth456.medium.com/agent-engineering-building-the-autonomous-teammates-of-the-future-cc1114c304e0?source=rss-e581dd6999ee------2)
+- [Vector Databases vs Graph Databases for Retrieval-Augmented Generation](https://javascript.plainenglish.io/vector-databases-vs-graph-databases-for-retrieval-augmented-generation-d0fed314da92?source=rss-e581dd6999ee------2)
+- [7 Must-Have Tools for Your Workflow](https://javascript.plainenglish.io/7-must-have-tools-for-your-workflow-c5c3b7b146be?source=rss-e581dd6999ee------2)
+- [Understanding Props in ReactJS](https://javascript.plainenglish.io/understanding-props-in-reactjs-3bba13e7856a?source=rss-e581dd6999ee------2)
+- [5 Python Scripts That Automate Data Cleaning in Minutes](https://python.plainenglish.io/5-python-scripts-that-automate-data-cleaning-in-minutes-bf5f2db3e17e?source=rss-e581dd6999ee------2)
+- [6 Docker Tricks to Simplify Your Data Science Reproducibility](https://python.plainenglish.io/6-docker-tricks-to-simplify-your-data-science-reproducibility-e57edcbd439f?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
