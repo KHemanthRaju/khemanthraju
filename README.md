@@ -70,11 +70,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Vector Databases vs Graph Databases for Retrieval-Augmented Generation](https://javascript.plainenglish.io/vector-databases-vs-graph-databases-for-retrieval-augmented-generation-d0fed314da92?source=rss-e581dd6999ee------2)
-- [7 Must-Have Tools for Your Workflow](https://javascript.plainenglish.io/7-must-have-tools-for-your-workflow-c5c3b7b146be?source=rss-e581dd6999ee------2)
-- [Understanding Props in ReactJS](https://javascript.plainenglish.io/understanding-props-in-reactjs-3bba13e7856a?source=rss-e581dd6999ee------2)
-- [5 Python Scripts That Automate Data Cleaning in Minutes](https://python.plainenglish.io/5-python-scripts-that-automate-data-cleaning-in-minutes-bf5f2db3e17e?source=rss-e581dd6999ee------2)
-- [6 Docker Tricks to Simplify Your Data Science Reproducibility](https://python.plainenglish.io/6-docker-tricks-to-simplify-your-data-science-reproducibility-e57edcbd439f?source=rss-e581dd6999ee------2)
+- [The Best AI Models for Coding: Accuracy, Integration, and Developer Fit](https://ai.plainenglish.io/the-best-ai-models-for-coding-accuracy-integration-and-developer-fit-6e8c825d9d64?source=rss-e581dd6999ee------2)
+- [12 Python Libraries You Need to Try in 2026](https://python.plainenglish.io/12-python-libraries-you-need-to-try-in-2026-92ca562e7dd9?source=rss-e581dd6999ee------2)
+- [Five Deployment Patterns Every Engineer Should Know ⚙️](https://ai.plainenglish.io/five-deployment-patterns-every-engineer-should-know-%EF%B8%8F-439d0acb39fb?source=rss-e581dd6999ee------2)
+- [7 Things Python Taught Me After Real-World Automation ⚙️](https://python.plainenglish.io/7-things-python-taught-me-after-real-world-automation-%EF%B8%8F-cbcac8fd07de?source=rss-e581dd6999ee------2)
+- [How to Build Memory-Driven AI Agents with Short-Term, Long-Term, and Episodic Memory](https://python.plainenglish.io/how-to-build-memory-driven-ai-agents-with-short-term-long-term-and-episodic-memory-98d5257f315d?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
