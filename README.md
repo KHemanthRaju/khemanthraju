@@ -71,11 +71,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Top Open Source LLMs in 2026](https://ai.plainenglish.io/top-open-source-llms-in-2026-5a772d9c9f51?source=rss-e581dd6999ee------2)
-- [The AI Skill Every Office Worker Should Learn in 2026](https://ai.plainenglish.io/the-ai-skill-every-office-worker-should-learn-in-2026-1241a85ca639?source=rss-e581dd6999ee------2)
-- [Beyond Keywords: Why Your 2026 AI Strategy Requires Semantic Search Orchestration](https://ai.plainenglish.io/beyond-keywords-why-your-2026-ai-strategy-requires-semantic-search-orchestration-1792fd1ef8cf?source=rss-e581dd6999ee------2)
-- [5 AI Tools That Saved Me 10 Hours a Week ⏳](https://ai.plainenglish.io/5-ai-tools-that-saved-me-10-hours-a-week-1154ea090bc7?source=rss-e581dd6999ee------2)
-- [The AI‑Native Blueprint: 4 Architectural Patterns Winning in 2026](https://ai.plainenglish.io/the-ai-native-blueprint-4-architectural-patterns-winning-in-2026-203b50c25647?source=rss-e581dd6999ee------2)
+- [AI Agents Explained: The 6 Concepts Shaping Intelligent Systems](https://medium.com/codex/ai-agents-explained-the-6-concepts-shaping-intelligent-systems-cdc52973a0e1?source=rss-e581dd6999ee------2)
+- [Caching Demystified: Redis vs Memcached Explained](https://python.plainenglish.io/caching-demystified-redis-vs-memcached-explained-95ba9f0168c0?source=rss-e581dd6999ee------2)
+- [Beyond the Hype: The 5 Most Impactful Truths About the “Forbidden” Claude Mythos AI](https://ai.plainenglish.io/beyond-the-hype-the-5-most-impactful-truths-about-the-forbidden-claude-mythos-ai-e4f6a91e57bc?source=rss-e581dd6999ee------2)
+- [The Day Cybersecurity Changed Forever: Anthropic’s Claude Mythos ️](https://medium.com/codex/the-day-cybersecurity-changed-forever-anthropics-claude-mythos-%EF%B8%8F-74f63b29cabf?source=rss-e581dd6999ee------2)
+- [6 Boring Micro SaaS Niches That Could Quietly Make $5,000/Month](https://rajuhemanth456.medium.com/6-boring-micro-saas-niches-that-could-quietly-make-5-000-month-7d0b82e8089d?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
