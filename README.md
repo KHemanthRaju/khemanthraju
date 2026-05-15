@@ -71,11 +71,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Explained: The 6 Concepts Shaping Intelligent Systems](https://medium.com/codex/ai-agents-explained-the-6-concepts-shaping-intelligent-systems-cdc52973a0e1?source=rss-e581dd6999ee------2)
-- [Caching Demystified: Redis vs Memcached Explained](https://python.plainenglish.io/caching-demystified-redis-vs-memcached-explained-95ba9f0168c0?source=rss-e581dd6999ee------2)
-- [Beyond the Hype: The 5 Most Impactful Truths About the “Forbidden” Claude Mythos AI](https://ai.plainenglish.io/beyond-the-hype-the-5-most-impactful-truths-about-the-forbidden-claude-mythos-ai-e4f6a91e57bc?source=rss-e581dd6999ee------2)
-- [The Day Cybersecurity Changed Forever: Anthropic’s Claude Mythos ️](https://medium.com/codex/the-day-cybersecurity-changed-forever-anthropics-claude-mythos-%EF%B8%8F-74f63b29cabf?source=rss-e581dd6999ee------2)
-- [6 Boring Micro SaaS Niches That Could Quietly Make $5,000/Month](https://rajuhemanth456.medium.com/6-boring-micro-saas-niches-that-could-quietly-make-5-000-month-7d0b82e8089d?source=rss-e581dd6999ee------2)
+- [The 3 Pillars of Observability: Metrics, Logs, and Traces](https://medium.com/codex/the-3-pillars-of-observability-metrics-logs-and-traces-ad41a2c0f9ca?source=rss-e581dd6999ee------2)
+- [How VPN Works: The Secure Tunnel Behind Private Internet Access](https://javascript.plainenglish.io/how-vpn-works-the-secure-tunnel-behind-private-internet-access-73e64937c9a7?source=rss-e581dd6999ee------2)
+- [12 Architecture Concepts Every Developer Should Know ️⚙️](https://medium.com/codex/12-architecture-concepts-every-developer-should-know-%EF%B8%8F-%EF%B8%8F-4ca41e032d4b?source=rss-e581dd6999ee------2)
+- [How LinkedIn Builds “People You May Know”](https://python.plainenglish.io/how-linkedin-builds-people-you-may-know-25409d64f565?source=rss-e581dd6999ee------2)
+- [Building a Research Reproduction Agent: From Paper to Verified Results](https://medium.com/codex/building-a-research-reproduction-agent-from-paper-to-verified-results-e5714f808c66?source=rss-e581dd6999ee------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@rajuhemanth456)**
 
