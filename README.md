@@ -17,7 +17,7 @@
 
 ## 🚀 What I’m Working On
 
-- 💼 **Microchip Technology Inc** – Working as a Data Engineering intern focusing on migrating ELT pipelines from Informatica to dbt and databricks 
+- 💼 **Microchip Technology Inc** – Worked as a Data Engineering intern focusing on migrating ELT pipelines from Informatica to dbt and databricks 
 - 💼 **Walnutech** – Built backend with supabase, FastAPI for a start-up company.  
 - ⚙️ **LLMOps** – Serverless answering service on AWS with Langfuse observability & CI/CD auto-rollbacks.  
 - 🌐 Side Projects: Focusing on Data Engineering projects, Open for collaboration.  
